@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: JasonYU's Pages
+name: THE MECHANIC
+description: Only the Paranoid Survive. 
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/JasonYU1019Root
 rss: true
 
 plugins:
@@ -34,3 +34,5 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+remote_theme: showzeng/Minimalism
