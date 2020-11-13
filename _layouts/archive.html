@@ -27,7 +27,7 @@
     {% include header.html %}
 
     <section class="timeline">
-      <p class="timeline-title">一共输出 {{ site.posts.size }} 篇文章</p>
+      <p class="timeline-title">{{ site.posts.size }} articles published</p>
       <ul>
         {% for post in site.posts %}
           {% if post.next != null %}

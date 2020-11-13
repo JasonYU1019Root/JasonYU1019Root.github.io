@@ -1,11 +1,5 @@
 ---
 layout: about
-title: ABOUT ME
+title: ABOUT
 reward: true
 ---
-
-
-
----
-
-
