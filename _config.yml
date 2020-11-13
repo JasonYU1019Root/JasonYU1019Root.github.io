@@ -19,7 +19,17 @@ name: THE MECHANIC
 description: Only the Paranoid Survive. 
 
 github: https://github.com/JasonYU1019Root
-rss: true
+email: mailto:YuJingxiong1019@outlook.com
+rss: false
+
+copyright_time: 2020
+lock_copy: true
+lock_menu: true
+copy_with_declaration: true
+
+reward: true
+
+remote_theme: showzeng/Minimalism
 
 plugins:
   - rouge
@@ -34,5 +44,3 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-
-remote_theme: showzeng/Minimalism
