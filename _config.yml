@@ -29,6 +29,7 @@ copy_with_declaration: true
 
 reward: true
 
+#theme: jekyll-theme-minimalism
 remote_theme: showzeng/Minimalism
 
 plugins:
