@@ -23,8 +23,8 @@ email: mailto:YuJingxiong1019@outlook.com
 rss: false
 
 copyright_time: 2020
-#lock_copy: true
-#lock_menu: true
+lock_copy: true
+lock_menu: true
 copy_with_declaration: true
 
 reward: true
